@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaspel-test-task.github.io/static/css/main.20fc620d.css",
+    "main.js": "/kaspel-test-task.github.io/static/js/main.056b19d8.js",
+    "index.html": "/kaspel-test-task.github.io/index.html",
+    "main.20fc620d.css.map": "/kaspel-test-task.github.io/static/css/main.20fc620d.css.map",
+    "main.056b19d8.js.map": "/kaspel-test-task.github.io/static/js/main.056b19d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20fc620d.css",
+    "static/js/main.056b19d8.js"
+  ]
+}
